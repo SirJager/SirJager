@@ -5,4 +5,4 @@
   - I like taking taking pictures of Nature.
   - Sometimes i steam games and make montages for my youtube channel.
 
-[![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirJager&count_private=true)](https://github.com/SirJager/github-readme-stats)
+[![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirJager&count_private=true&show_icons=true)](https://github.com/SirJager/github-readme-stats)
