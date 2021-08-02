@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sirjager" target="blank"><img src="https://img.shields.io/twitter/follow/sirjager?logo=twitter&style=for-the-badge" alt="sirjager" /></a> </p>
 <br/>
-- 🔭 I’m currently working on some flutter apps
+- 🔭 I’m currently working on some **flutter apps**
 
 - 🌱 I’m currently learning **Flutter**
 
