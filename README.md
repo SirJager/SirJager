@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Flutter**
 
+- 🇯🇵 I'm also learning **Japanese Language**
+
 - 📫 How to reach me **email.ankur@pm.me**
 
 - ⚡ Fun fact **I like sketching and taking photos of nature.**
