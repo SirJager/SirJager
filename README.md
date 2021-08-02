@@ -4,3 +4,5 @@
   - I'm also working on few cross platform app [GeeksLibrary]
   - I like taking taking pictures of Nature.
   - Sometimes i steam games and make montages for my youtube channel.
+
+[![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirJager)](https://github.com/SirJager/github-readme-stats)
