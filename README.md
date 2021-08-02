@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirjager" alt="sirjager" /></p>
 
-[![SirJager's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SirJager)](https://github.com/SirJager/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
