@@ -23,8 +23,8 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-    
-          Currently playing
+    <h3 align="center">Currently playing</h3>
+          
     
 &nbsp; <br> [![Spotify](https://novatorem-sirjager.vercel.app/api/spotify)](https://open.spotify.com/user/nbu8p1woqzxhw479gixupxkw9)
      
