@@ -6,15 +6,15 @@
 <p align="left"> <a href="https://twitter.com/sirjager" target="blank"><img src="https://img.shields.io/twitter/follow/sirjager?logo=twitter&style=for-the-badge" alt="sirjager" /></a> </p>
 <br/>
 
-- 🔭 I’m currently working on some **Flutter apps**
+- 🔭 I’m currently working on some ***Flutter apps***
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning ***Flutter***
 
-- 🇯🇵 I'm also learning **Japanese Language**
+- 🇯🇵 I'm also learning ***Japanese***
 
-- 📫 How to reach me **email.ankur@pm.me**
+- 📫 How to reach me ***email.ankur@pm.me***
 
-- ⚡ Fun fact **I like sketching and taking photos of nature.**
+- ⚡ Fun fact ***I like sketching and taking photos of nature.***
 <br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
