@@ -28,8 +28,10 @@
   <td width="50%">
 
 <br><p align="center">Connect With Me<br><br>
-  ![Twitter Follow](https://img.shields.io/twitter/follow/SirJager?color=1DA1F2&logo=Twitter&style=for-the-badge)  
-  [![Visits](https://komarev.com/ghpvc/?username=sirjager&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/sirjager)
+ <a href="https://twitter.com/sirjager" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sirjager" height="30" width="40" /></a>
+<a href="https://fb.com/jagersir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jagersir" height="30" width="40" /></a>
+<a href="https://instagram.com/sirjager" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sirjager" height="30" width="40" /></a>
+<a href="https://discord.gg/XBqUKeE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="XBqUKeE" height="30" width="40" /></a>
 </p>
   </td>
   </table>
