@@ -26,8 +26,7 @@
     
 &nbsp; <br> [![Spotify](https://novatorem-sirjager.vercel.app/api/spotify)](https://open.spotify.com/user/nbu8p1woqzxhw479gixupxkw9)
    
-    ### Playing
-
+  <h3 align="center">currently playing</h3>
   </td>
   <td width="50%">
 
