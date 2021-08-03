@@ -37,4 +37,6 @@
 
 [![Ankur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SirJager&theme=tokyonight&count_private=true)](https://github.com/SirJager)
 
+ ![sirjager's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sirjager3737&theme=xcode)
+
 <br/>
