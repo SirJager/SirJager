@@ -25,6 +25,8 @@
   <td width="50%">
     
 &nbsp; <br> [![Spotify](https://novatorem-sirjager.vercel.app/api/spotify)](https://open.spotify.com/user/nbu8p1woqzxhw479gixupxkw9)
+   
+    ### Playing
 
   </td>
   <td width="50%">
