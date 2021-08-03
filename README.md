@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://github.com/SirJager/SirJager/blob/master/assets/wave.gif"height="47" width="55px"> I'm Ankur</h1>
+<h1 align="left">Hi <img src="https://github.com/SirJager/SirJager/blob/master/assets/wave.gif"height="35" width="55px"> I'm Ankur</h1>
 <h3 align="left">A passionate flutter developer from India.</h3>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirjager&label=Profile%20views&color=0e75b6&style=flat" alt="sirjager" /> </p>
