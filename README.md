@@ -55,7 +55,11 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Markdown   33 mins         █████████████████████████   100.00 % 
+Dart       5 hrs 22 mins   ████████████████▓░░░░░░░░   67.17 % 
+Markdown   1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+JSON       43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Text       28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Groovy     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 ```
 <!--END_SECTION:waka-->
 
