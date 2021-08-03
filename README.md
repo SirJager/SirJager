@@ -35,6 +35,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirjager&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="sirjager" /></p>
 <br/>
 
-[![Ankur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SirJager&layout=compact&theme=tokyonight&count_private=true)](https://github.com/SirJager/github-readme-stats)
+[![Ankur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SirJager&layout=compact&theme=tokyonight&count_private=true)](https://github.com/SirJager)
 
 <br/>
