@@ -17,7 +17,9 @@
 - ⚡ Fun fact ***I like sketching and taking photos of nature.***
 <br/><br/>
 
-&nbsp; <br> [![Spotify](https://sirjager.vercel.app/api/spotify)](https://open.spotify.com/user/nbu8p1woqzxhw479gixupxkw9)
+&nbsp; <br> [![Spotify](https://spotify-now-playing-iheb9mxy7-sirjager.vercel.app/api/spotify)](https://open.spotify.com/user/nbu8p1woqzxhw479gixupxkw9)
+
+
 
 
 <br/><br/>
