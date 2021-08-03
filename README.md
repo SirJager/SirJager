@@ -3,7 +3,7 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirjager&label=Profile%20views&color=0e75b6&style=flat" alt="sirjager" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sirjager" target="blank"><img src="https://img.shields.io/twitter/follow/sirjager?logo=twitter&style=for-the-badge" alt="sirjager" /></a> </p>
+![Twitter Follow](https://img.shields.io/twitter/follow/SirJager?color=1DA1F2&logo=Twitter&style=for-the-badge)
 <br/>
 
 - 🔭 I’m currently working on some ***Flutter apps***
