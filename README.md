@@ -19,6 +19,7 @@
 
 [![Spotify](https://spotify-now-playing-sirjager.vercel.app/api/spotify)](https://open.spotify.com/user/nbu8p1woqzxhw479gixupxkw9)
 
+
 <br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
