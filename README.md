@@ -40,8 +40,9 @@
 
 ### Coding Stats
 <!--START_SECTION:waka-->
-
-
+```text
+Markdown   33 mins         █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/anuraghazra/convoychat">
