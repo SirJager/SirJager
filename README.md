@@ -16,6 +16,11 @@
 
 - ⚡ Fun fact ***I like sketching and taking photos of nature.***
 <br/><br/>
+
+[![Spotify](https: //spotify-now-playing-sirjager.vercel.app/api/spotify)](https://open.spotify.com/user/nbu8p1woqzxhw479gixupxkw9)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sirjager" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sirjager" height="30" width="40" /></a>
