@@ -47,9 +47,6 @@ Markdown   33 mins         █████████████████�
 ```
 <!--END_SECTION:waka-->
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-sirjager.vercel.app/api/pin/?username=sirjager" />
-</a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirjager&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="sirjager" /></p>
 <br/>
