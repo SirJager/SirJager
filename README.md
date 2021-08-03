@@ -27,7 +27,7 @@
   </td>
   <td width="50%">
 
-<br><p align="center">Connect With Me(https://github.com/sirjager)!<br><br>
+<br><p align="center">Connect With Me<br><br>
   ![Twitter Follow](https://img.shields.io/twitter/follow/SirJager?color=1DA1F2&logo=Twitter&style=for-the-badge)  
   [![Visits](https://komarev.com/ghpvc/?username=sirjager&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/sirjager)
 </p>
