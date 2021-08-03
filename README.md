@@ -21,6 +21,7 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
+    
 &nbsp; <br> [![Spotify](https://novatorem-sirjager.vercel.app/api/spotify)](https://open.spotify.com/user/nbu8p1woqzxhw479gixupxkw9)
 
   </td>
