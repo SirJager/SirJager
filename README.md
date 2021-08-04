@@ -49,7 +49,7 @@
 
 
 
-### Coding Stats
+### Coding Stats This Week
 <!--START_SECTION:waka-->
 ```text
 Dart       5 hrs 22 mins   ████████████████▓░░░░░░░░   67.17 % 
