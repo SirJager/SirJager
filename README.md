@@ -17,9 +17,6 @@
 - ⚡ Fun fact ***I like sketching and taking photos of nature.***
 <br/><br/>
 
-
-### Spotify Playing
-
 <table width="100%"> 
   <tr>
   <td width="50%"> 
