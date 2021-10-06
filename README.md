@@ -59,7 +59,4 @@ Bash    2 hrs 23 mins   █▒░░░░░░░░░░░░░░░░�
 XML     36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 <!--END_SECTION:waka-->
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirjager&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="sirjager" /></p>
 <br/>
