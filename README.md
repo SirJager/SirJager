@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on some ***Flutter apps***
 
-- 🌱 I’m currently learning ***Flutter***
+- 🌱 I’m currently learning ***Dart*** and ***Flutter***
 
 - 🇯🇵 I'm also learning ***Japanese***
 
