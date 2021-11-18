@@ -14,7 +14,7 @@
 
 - 📫 How to reach me ***email.ankur@pm.me***
 
-- ⚡ Fun fact ***I like sketching and taking photos of nature.***
+- ⚡ Fun fact ***I like to automate tasks, sketching and taking photos of nature.***
 <br/><br/>
 
 <table width="100%"> 
