@@ -52,11 +52,11 @@
 ### Coding Stats This Week
 <!--START_SECTION:waka-->
 ```text
-Python       8 hrs 52 mins   ███████████▒░░░░░░░░░░░░░   45.73 % 
-Other        5 hrs 41 mins   ███████▒░░░░░░░░░░░░░░░░░   29.32 % 
-Dart         2 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-INI          1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Git Config   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Python       7 hrs 31 mins   █████████▓░░░░░░░░░░░░░░░   38.00 % 
+Dart         5 hrs 42 mins   ███████▒░░░░░░░░░░░░░░░░░   28.86 % 
+Other        3 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.98 % 
+INI          1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Git Config   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 <!--END_SECTION:waka-->
 <br/>
