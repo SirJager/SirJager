@@ -52,11 +52,11 @@
 ### Coding Stats This Week
 <!--START_SECTION:waka-->
 ```text
-Dart              28 hrs 6 mins   ████████████▒░░░░░░░░░░░░   48.72 % 
-Python            27 hrs 24 mins  ████████████░░░░░░░░░░░░░   47.50 % 
-Bash              31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Protocol Buffer   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-YAML              20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Dart              30 hrs 16 mins  █████████████▓░░░░░░░░░░░   54.22 % 
+Python            23 hrs 21 mins  ██████████▒░░░░░░░░░░░░░░   41.83 % 
+Bash              30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Protocol Buffer   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+YAML              25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 <!--END_SECTION:waka-->
 <br/>
