@@ -52,13 +52,13 @@
 ### Coding Stats This Week
 <!--START_SECTION:waka-->
 ```text
-Total: 40 hrs 42 mins
+Total: 34 hrs 52 mins
 
-Dart         39 hrs 2 mins   ████████████████████████░   95.63 % 
-JSON         1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Git Config   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-HTML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Dart         33 hrs 17 mins  ███████████████████████▓░   94.91 % 
+JSON         1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Other        12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Git Config   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+HTML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
 <br/>
