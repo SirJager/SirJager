@@ -52,8 +52,6 @@
 ### Coding Stats This Week
 <!--START_SECTION:waka-->
 ```text
-Total: 39 hrs 10 mins
-
 Dart     35 hrs 36 mins  ██████████████████████▓░░   90.39 % 
 Python   1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 JSON     37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
