@@ -6,9 +6,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/SirJager?color=1DA1F2&logo=Twitter&style=for-the-badge)
 <br/>
 
-- 🔭 I’m currently working on some ***Flutter apps***
+- 🔭 I’m currently working on some ***Web apps,Dashboards and Panels***
 
-- 🌱 I’m learning ***Dart*** and ***Flutter***
+- 🌱 I’m learning ***Dart*** and ***Python***
 
 - 🇯🇵 I'm also learning ***Japanese***
 
