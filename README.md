@@ -1,10 +1,6 @@
 <h1 align="left">Hi <img src="https://github.com/SirJager/SirJager/blob/master/assets/giphy.gif"height="40px" width="40px">, I'm Ankur</h1>
 <h3 align="left">A passionate flutter developer from India.</h3>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirjager&label=Profile%20views&color=0e75b6&style=flat" alt="sirjager" /> </p>
-
-![Twitter Follow](https://img.shields.io/twitter/follow/SirJager?color=1DA1F2&logo=Twitter&style=for-the-badge)
-<br/>
 
 - 🔭 I’m currently working on some ***Web apps,Dashboards and Panels***
 
