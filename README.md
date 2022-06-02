@@ -38,3 +38,5 @@ Other        20 mins         ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 <br/>
+
+![Wakatime coding activity last 7 days](https://wakatime.com/share/@SirJager/081e5ee2-bc6b-4962-93a9-1cbdf5759f60.svg)
