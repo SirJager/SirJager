@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on some ***Web apps,Dashboards and Panels***
 
-- 🌱 I’m learning ***Dart*** and ***Python***
-
-- 🇯🇵 I'm also learning ***Japanese***
+- 🇯🇵 I'm learning ***Japanese***
 
 - 📫 How to reach me ***email.ankur@pm.me***
 
