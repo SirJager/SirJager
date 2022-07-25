@@ -22,20 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirjager&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="sirjager" /></p>
 <br/>
 
-
-
-### Coding Stats This Week
-<!--START_SECTION:waka-->
-
-```text
-Go               17 hrs 19 mins  ███████░░░░░░░░░░░░░░░░░░   27.64 %
-TypeScript       12 hrs 48 mins  █████░░░░░░░░░░░░░░░░░░░░   20.42 %
-Lua              12 hrs 25 mins  █████░░░░░░░░░░░░░░░░░░░░   19.81 %
-YAML             4 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-Docker           4 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-Bash             2 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-```
-
-<!--END_SECTION:waka-->
-<br/>
-
